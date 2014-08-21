@@ -1,0 +1,21 @@
+[
+{
+    "modid": "AutomaticArmorEquipper",
+    "name": "Automatic Armor Equipper",
+    "description": "Walk over the Equipper and equip your favourite set of armor!",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "Chartle"
+    ],
+    "credits": "Thanks to Pahimar for his excellent modding tutorials!",
+    "logoFile": "assets/automaticarmorequipper/logoFile.png",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependencies": [
+    ]
+}
+]

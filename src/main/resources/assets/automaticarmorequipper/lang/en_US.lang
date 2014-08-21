@@ -1,0 +1,9 @@
+# Creative Tabs
+itemGroup.automaticarmorequipper=Automatic Armor Equipper
+
+# Items
+item.automaticarmorequipper:armorCard.name=Armor Card
+
+
+# Blocks
+tile.automaticarmorequipper:armorEquipper.name=Armor Equipper
